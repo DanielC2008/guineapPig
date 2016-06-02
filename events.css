@@ -1,0 +1,15 @@
+.blue {
+	color: blue;
+}
+
+.size {
+	font-size: 2rem;
+}
+
+.border {
+	border: 2px solid black;
+}
+
+.radius {
+	border-radius: 20%;
+}
